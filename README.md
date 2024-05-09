@@ -2,19 +2,16 @@
 
 <div>
  &nbsp &nbsp
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG43aXJ5anVpeGVmMjFvZzM4MGZnY3ZjNTE1cnhnM3FpZ284YzA1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="150">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p3eGU4eHY5anNwYWlxdTA1emkzcWV0eTFmMzduYXd0enAxejgzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="150">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ubGN4ejRtaXphMnR6YmgwNHJ1NGJ4YXFsMHk2ZmF3OGxjbzl4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdxd7/giphy.gif" width="150">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0YXhzaDB1ZHA4ZGp1Nm51aXplZTI5dmNuMW1xcng2Y3EwcGtxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="150">
+<img align="right"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG43aXJ5anVpeGVmMjFvZzM4MGZnY3ZjNTE1cnhnM3FpZ284YzA1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="150">
 </div>
-<br>
+
 I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript, React and Angular to build scalable and maintainable UIs.
 
-### 💻 Languages and tools:
+<p align="center"> 💻 Languages and tools: </p>
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EAA401?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -25,6 +22,13 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f1618c?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-8F6EFE?style=flat-square&logo=vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/WebPack-38B2AC?style=flat-square&logo=webpack-css&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/Radix-38B2AC?style=flat-square&logo=radix-css&logoColor=white" />
 </p>
 
 ### 💹 Stats
