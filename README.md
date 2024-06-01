@@ -48,4 +48,4 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
 [gmail]: sggavrilchik@gmail.com
 [linkedin]: https://www.linkedin.com/in/siarhei-haurylchyk-865833247/
 [telegram]: https://t.me/siarheihaurylchyk
-[codewars]: https://www.codewars.com/users/GGmaybekill
+[codewars]: https://www.codewars.com/users/Siarhei%20Haurylchyk
