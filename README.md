@@ -5,7 +5,7 @@
 <img align="right"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG43aXJ5anVpeGVmMjFvZzM4MGZnY3ZjNTE1cnhnM3FpZ284YzA1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="150">
 </div>
 
-I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript, React and Angular to build scalable and maintainable UIs.
+I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript, React, Next.Js and Angular to build scalable and maintainable UIs.
 
 <p align="center"> 💻 Languages and tools: </p>
 
