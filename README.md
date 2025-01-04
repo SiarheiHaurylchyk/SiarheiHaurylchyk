@@ -5,8 +5,13 @@
 <img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyeGgxaHRodnBnZzNoMnJqb3NsanRneXJ6MGlqeXhtemE3ajNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pI4ppLj8eZV9jdlPCY/giphy.gif" width="150">
 </div>
 
-I'm a softwear enginer specializing in building maintainable and scalable applications. 
+<div align="center">
+    I'm a software engineer specializing in building maintainable and scalable applications.
+</div>
 
+<div>
+ &nbsp &nbsp
+</div>
 <p align="center"> 💻 Languages and tools: </p>
 
 <p>
