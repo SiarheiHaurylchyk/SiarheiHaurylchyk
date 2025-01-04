@@ -5,6 +5,7 @@
 <img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyeGgxaHRodnBnZzNoMnJqb3NsanRneXJ6MGlqeXhtemE3ajNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pI4ppLj8eZV9jdlPCY/giphy.gif" width="150">
 </div>
 
+<p align="center"> 💻 Languages and tools: </p>
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
