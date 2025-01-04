@@ -2,10 +2,10 @@
 
 <div>
  &nbsp &nbsp
-<img align="right"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG43aXJ5anVpeGVmMjFvZzM4MGZnY3ZjNTE1cnhnM3FpZ284YzA1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="150">
+<img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVyeGgxaHRodnBnZzNoMnJqb3NsanRneXJ6MGlqeXhtemE3ajNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pI4ppLj8eZV9jdlPCY/giphy.gif" width="150">
 </div>
 
-I'm a frontend developer with a focus on crafting interactive and user-friendly web applications. My toolkit includes JavaScript, TypeScript, React, Next.Js and Angular to build scalable and maintainable UIs.
+I'm a softwear enginer specializing in building maintainable and scalable applications. 
 
 <p align="center"> 💻 Languages and tools: </p>
 
@@ -22,13 +22,26 @@ I'm a frontend developer with a focus on crafting interactive and user-friendly 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f1618c?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-8F6EFE?style=flat-square&logo=vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-grey?logo=mui&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="tailwind-css" src="https://img.shields.io/badge/WebPack-38B2AC?style=flat-square&logo=webpack-css&logoColor=white" />
-  <img alt="tailwind-css" src="https://img.shields.io/badge/Radix-38B2AC?style=flat-square&logo=radix-css&logoColor=white" />
+  <img alt="webpack" src="https://img.shields.io/badge/WebPack-blue?logo=WebPack&logoColor=white" />
+  <img alt="radix" src="https://img.shields.io/badge/Radix-gren?logo=radixui&logoColor=white" />
+</p>
+<p>
+  <img alt="java" src="https://img.shields.io/badge/Java-764ABC"/>
+ <img alt="Gradle" src="https://img.shields.io/badge/Gradle-white?logo=Gradle&logoColor=grey"/>
+ <img alt="Maven" src="https://img.shields.io/badge/Maven-gray?logo=apachemaven&logoColor=white"/>
+   <img alt="spring" src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white"/>
+  <img alt="redis" src="https://img.shields.io/badge/Redis-yellow?logo=redis"/>
+  <img alt="java" src="https://img.shields.io/badge/Kafka-red?logo=apachekafka"/>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-blue?logo=Docker"/>
+ <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-grey?logo=hibernate&logoColor=white"/>
+ <img alt="Junit" src="https://img.shields.io/badge/JUnit-orange?logo=junit5&logoColor=white"/>
+ <img alt="Mockito" src="https://img.shields.io/badge/Mockito-orange?logo=Mockito&logoColor=white"/>
+  <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-white?logo=postgresql&logoColor=grey"/>
+   <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-red?logo=liquibase&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-f1618c?logo=postman&logoColor=white"/>
 </p>
 
 ### 💹 Stats
