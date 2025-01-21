@@ -18,10 +18,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-c53d17?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f1618c?style=flat-square&logo=storybook&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-8F6EFE?style=flat-square&logo=vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="material-ui" src="https://img.shields.io/badge/Material--UI-grey?logo=mui&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/WebPack-blue?logo=WebPack&logoColor=white" />
   <img alt="radix" src="https://img.shields.io/badge/Radix-gren?logo=radixui&logoColor=white" />
