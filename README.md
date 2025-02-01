@@ -42,6 +42,7 @@
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-grey?logo=hibernate&logoColor=white"/>
   <img alt="Junit" src="https://img.shields.io/badge/JUnit-orange?logo=junit5&logoColor=white"/>
   <img alt="Mockito" src="https://img.shields.io/badge/Mockito-orange?logo=Mockito&logoColor=white"/>
+ <img alt="Mockito" src="https://img.shields.io/badge/Testcontainers-orange"/>
   <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-white?logo=postgresql&logoColor=grey"/>
   <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-red?logo=liquibase&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-f1618c?logo=postman&logoColor=white"/>
